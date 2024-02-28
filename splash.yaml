@@ -1,0 +1,14 @@
+flutter_native_splash:
+  color: "0xFFFFFF"
+  color_dark: "0xFF272727"
+  image:  assets/images/heat.jpg
+  image_dark: assets/images/max.jpg
+
+
+  android_12:
+    color: "0xFFFFFF"
+    color_dark: "0xFF272727"
+    image: assets/images/heat.jpg
+    image_dark: assets/images/max.jpg
+
+    web: false
